@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0ea5e9;">Darshan Kumar</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0ea5e9;">Darshan</span></h1>
 <p align="center">💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</p>
 
 ---
