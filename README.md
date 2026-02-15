@@ -39,7 +39,7 @@
   <a href="https://x.com/darshanacodes" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="mailto:darshankumar.parhyar@gmail.com" target="_blank">
+  <a href="mailto:darshanchelani007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
