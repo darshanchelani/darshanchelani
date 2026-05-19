@@ -14,7 +14,7 @@ I love turning complex AI into simple, usable products.
 - **Multi-Document Smart Retrieval Chatbot** — RAG chatbot over PDFs with source citations.  
   `Python` `RAG` `Qdrant` `LangChain` `PDF Parsing`
 
-## Tech stack — what a full‑stack AI engineer actually needs
+## Tech stack 
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
@@ -51,9 +51,8 @@ I love turning complex AI into simple, usable products.
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/darshankumar25)
+- [LinkedIn](https://www.linkedin.com/in/darshanchelani/)
 - [X](https://x.com/darshanacodes)
-- [Discord](https://discord.gg/darshanacodes)
 - [Email](mailto:darshanchelani007@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanchelani&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
